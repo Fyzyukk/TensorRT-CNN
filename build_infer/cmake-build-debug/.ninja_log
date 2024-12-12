@@ -1,0 +1,9 @@
+# ninja log v6
+155	1694	7554489963911881	CMakeFiles/main.dir/src/cpp/timer.cpp.obj	297acd8cfa13fc07
+3	1840	7554494990274314	CMakeFiles/main.dir/src/cpp/main.cpp.obj	bacd8638e0c72fed
+4	1317	7554523123050950	CMakeFiles/main.dir/src/cpp/utils.cpp.obj	70eb83020bd91b1f
+4	1322	7554520668195613	CMakeFiles/main.dir/src/cpp/model.cpp.obj	7d876e088d17dce9
+1317	2274	7554523136194044	main.exe	3be0b4eefea74ced
+1	274	7556027332179926	build.ninja	218faf45f47c8a5a
+3	1375	7556214287916941	CMakeFiles/main.dir/src/cpp/main.cpp.obj	bacd8638e0c72fed
+1376	1853	7556214301646395	main.exe	3be0b4eefea74ced

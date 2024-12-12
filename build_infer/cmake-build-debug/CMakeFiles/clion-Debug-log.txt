@@ -1,0 +1,9 @@
+"D:\App\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/App/JetBrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\work\TensorRT-main\build_infer -B D:\work\TensorRT-main\build_infer\cmake-build-debug
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: vc16
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.9.0 in D:/App/opencv490/opencv/build/x64/vc16/lib
+-- You might need to add D:\App\opencv490\opencv\build\x64\vc16\bin to your PATH to be able to run your applications.
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/work/TensorRT-main/build_infer/cmake-build-debug
